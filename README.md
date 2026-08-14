@@ -6,7 +6,7 @@
 ![Intr](Images/Intro.png)
 
 ---
-## High-Level Objectives
+## High-Level Overview
 
 ![High](Images/High-level.png)
 
