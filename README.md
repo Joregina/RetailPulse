@@ -28,10 +28,6 @@
 ---
 ## Products
 
-![Intr](Images/Intro.png)
-
----
-
 ![Products](Images/Products.png)
 
 ---
